@@ -1,4 +1,7 @@
 #!/bin/bash -xve
+#
+##Written by s. Ueda
+#
 # Start/stop the raspimouse.
 #
 ### BEGIN INIT INFO 
