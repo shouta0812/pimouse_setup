@@ -1,5 +1,6 @@
 #!/bin/bash -xve
-##Written by shouta0812 Ueda
+#
+#Written by shouta0812. Ueda
 #
 # Start/stop the raspimouse.
 #
